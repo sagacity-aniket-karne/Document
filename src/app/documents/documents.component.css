@@ -1,0 +1,31 @@
+
+.cen {
+  display: flex;
+  justify-content: center;
+}
+.list-group{
+  list-style: none;
+  border: 1px solid black;
+}
+.list-group-item {
+  list-style: none;
+  text-decoration: none;
+  list-style-type: none;
+  border: none;
+}
+.box-2{
+  padding: 50px;
+  text-align: center;
+}
+.icon-clear{
+  position: relative;
+  right: -390px;
+  font-size: 20px;
+}
+.button-bottom{
+  background-color: rgb(204, 204, 204);
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  width: 95px;
+}
